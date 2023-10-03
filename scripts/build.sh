@@ -2,4 +2,4 @@
 
 echo "build!"
 echo "args: $@"
-printenv
+printenv | sort

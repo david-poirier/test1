@@ -2,4 +2,4 @@
 
 echo "deploy!"
 echo "args: $@"
-printenv
+printenv | sort

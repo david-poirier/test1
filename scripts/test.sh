@@ -2,4 +2,4 @@
 
 echo "test!"
 echo "args: $@"
-printenv
+printenv | sort
