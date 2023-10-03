@@ -2,3 +2,4 @@
 
 echo "deploy!"
 echo "args: $@"
+printenv

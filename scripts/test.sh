@@ -2,3 +2,4 @@
 
 echo "test!"
 echo "args: $@"
+printenv

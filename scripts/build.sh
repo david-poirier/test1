@@ -2,3 +2,4 @@
 
 echo "build!"
 echo "args: $@"
+printenv
