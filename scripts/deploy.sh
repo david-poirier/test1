@@ -4,5 +4,6 @@ echo "deploy!"
 echo "-------------------------"
 echo "args: $@"
 echo "-------------------------"
-printenv | sort
+echo "env:"
+printenv
 echo "-------------------------"

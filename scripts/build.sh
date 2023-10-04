@@ -4,5 +4,6 @@ echo "build!"
 echo "-------------------------"
 echo "args: $@"
 echo "-------------------------"
-printenv | sort
+echo "env:"
+printenv
 echo "-------------------------"
